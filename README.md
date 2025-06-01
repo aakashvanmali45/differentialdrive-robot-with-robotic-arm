@@ -46,7 +46,7 @@ During the course and this project, I gained hands-on experience in:
 
 ## 📸 Screenshots
 
-![Model of Differetial Drive Robot with Robotic Arm](Screenshot from 2025-06-01 13-13-43.png)
+![Model of Differetial Drive Robot with Robotic Arm](/Screenshot from 2025-06-01 13-13-43.png)
 
 ---
 
